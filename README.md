@@ -107,7 +107,7 @@ python app.py
 
 ## 🎓 Authors
 
-- [Arkajyoti Sarkar](https://github.com/yourgithub)
+- Arkajyoti Sarkar
 - Dipanjan Saha
 - Debjit Chatterjee
 - Saikat Mukherjee
