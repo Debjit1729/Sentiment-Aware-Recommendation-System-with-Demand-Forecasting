@@ -1,6 +1,6 @@
 # 🛍️ Sentiment-Aware Recommendation System with Demand Forecasting
 
-A hybrid fashion recommendation engine that integrates collaborative filtering, sentiment analysis from user reviews, and time-series demand forecasting to deliver smarter, context-aware product suggestions.
+A hybrid fashion recommendation engine that integrates both content and collaborative filtering, sentiment analysis from user reviews, and time-series demand forecasting to deliver smarter, context-aware product suggestions.
 
 ## 📌 Project Highlights
 
