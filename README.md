@@ -111,7 +111,6 @@ python app.py
 - Dipanjan Saha
 - Debjit Chatterjee
 - Saikat Mukherjee
-- Srinjoy Dhar
 
 Under the guidance of **Dr. Lewlisa Saha**, Techno Main Salt Lake.
 
