@@ -131,3 +131,10 @@ Under the guidance of **Dr. Lewlisa Saha**, Techno Main Salt Lake.
 - Image-based visual similarity using CNNs.
 - Geo-personalized fashion recommendations.
 - Multilingual sentiment support (Indian languages).
+
+
+## Screenshots
+
+### 1st
+![1st](https://github.com/Debjit1729/Sentiment-Aware-Recommendation-System-with-Demand-Forecasting/blob/main/Screenshot%202025-06-23%20004246.png)
+
